@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    color: white;
+    background-color: black;
+padding: 200px;
+padding-top: 0px;
+
+}
+h2{
+    font-size: 20px;
+}
+img{
+    width: 500px;
+    margin-left: 100px;
+    border-radius: 15px;
+}
+h2,h5{
+    text-align: center;
+}
+form{
+    padding: 50px;
+    border-radius: 25px;
+}
+.btn19{
+    padding: 5px 20px 5px 20px;
+    background-color:     #FA00FF;
+    color: white;
+    margin-left: 630px;
+    border-radius: 15px;
+}
